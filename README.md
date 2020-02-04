@@ -1,5 +1,5 @@
 # CSIS-212-OOP
-University Java course I took that taught Object-oriented programming
+Assignments & Work from a University Java course for Object Oriented Programming.
 
 Assignment 1
 Program 1
