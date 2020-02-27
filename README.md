@@ -1,5 +1,5 @@
 # CSIS-212-OOP
-Assignments & Work from a University Java course for Object Oriented Programming.
+Work done through Object Oriented Programming class. Grade received: A
 
 Assignment 1
 Program 1
